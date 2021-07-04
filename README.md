@@ -7,3 +7,4 @@ de cada estado utilizando os dados de uma API do IBGE.
 E javascript no formulário de contato com o 
 desenvolvedor do site utilizando uma API chamada StaticForms.
 Deploy feito na Vercel.
+https://trabalho-dev-web.vercel.app/
