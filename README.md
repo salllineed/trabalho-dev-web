@@ -6,4 +6,4 @@ javascript exibindo a estimativa populacional
 de cada estado utilizando os dados de uma API do IBGE.
 E javascript no formulário de contato com o 
 desenvolvedor do site utilizando uma API chamada StaticForms.
-Não consegui definir o charset para UTF-8.
+Deploy feito na Vercel.
