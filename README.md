@@ -1,4 +1,5 @@
-# - API - IBGE - Estimativa da População - UF's brasileiros.
+# - API - IBGE - Estimativa da População - UF's brasileiros. -
+# - API - StaticForms - Envio de e-mail's. -
 
 O trabalho foi desenvolvido "em cima" de um template feito com bootstrap pelo criador.
 O framework bootstrap também foi usado por mim para criar formulários, tabelas, select, options...
